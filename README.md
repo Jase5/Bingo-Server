@@ -1,4 +1,4 @@
-# Bingo Client
+# Bingo Server
 
 ### School project in collaboration with Ricardo Santoyo
 
