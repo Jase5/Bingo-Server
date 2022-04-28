@@ -2,7 +2,7 @@
 
 ### School project in collaboration with Ricardo Santoyo
 
-### Check out Justen Seward's github page here https://github.com/Ricardo-Santoyo
+### Check out Ricardo Santoyo's github page here https://github.com/Ricardo-Santoyo
 
 ## Installation
 
